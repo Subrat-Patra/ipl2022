@@ -1,0 +1,20 @@
+.details{
+   
+  
+    border-radius: 8px;
+    width: 25%;
+    height: 250px;
+    background-color: aqua;
+    text-align: center;
+  
+    padding-top: 50px;
+}
+body{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+    
